@@ -1,10 +1,10 @@
-<h1 align="center">Alura Plus</h1>
-
-![capa.png](/img/capa.png)
-
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
+
+<h1 align="center">Alura Plus - Desktop</h1>
+
+![Alura-Plus-desktop](https://user-images.githubusercontent.com/105315548/177235678-57db44eb-e151-47b8-ac5a-70fe2ef2c275.png)
 
 ## Tópicos
 
